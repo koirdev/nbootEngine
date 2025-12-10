@@ -39,7 +39,7 @@ def main():
     COS, SIN = (0,1)
     
     gameLoop = True
-    while True:
+    while gameLoop:
 
         for e in pygame.event.get():
             if e.type == pygame.QUIT:
@@ -196,4 +196,5 @@ def main():
         pygame.display.update()
         clock.tick(FPS)           
        
+
 main()
