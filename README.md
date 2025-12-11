@@ -5,4 +5,8 @@
 
 Released under [***MIT*** *License*](LICENSE)
 
+# ver. 0.2 in dev!
+
+<img src="v0.2-preview.png"></a>
+
 
